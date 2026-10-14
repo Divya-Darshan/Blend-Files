@@ -1,0 +1,17 @@
+Title: Oil Refinery 06
+URL: http://sketchfab.com/3d-models/oil-refinery-06-966f8018f1a74851aec25f2ab3a085f5
+Author: https://sketchfab.com/cg_duck
+
+Vertices: 29136
+Polygons: 41894
+Animations: 0
+
+Download Date: 14-10-2026
+Download Format: GLTF
+Download Path: C:\Users\Darshan\Desktop\3d_Ripper_Pro_v109\Downloads\CGDuck\01- Oil.Refinery.06\
+Download File: 966f8018f1a74851aec25f2ab3a085f5_Textured.gltf
+
+Textures: 3
+#1: 4d502242f4d74546b97b1e20fc37208a_RGB_Oil_Refinery_06_Emissive.png
+#2: b9690a3f19ab4551827470ef00401547_N_Oil_Refinery_06_Normal.png
+#3: e4b9cb7405d84b9a91741c40ecd50468_RGB_Oil_Refinery_06_BaseColor.png
